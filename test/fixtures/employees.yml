@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  last_name: MyString
+  first_name: MyString
+  middle_initial: MyString
+  ssn: 1
+  birth_date: 2011-07-28
+  hire_date: 2011-07-28
+  termination_date: 2011-07-28
+  gross_salary: 9.99
+  employee_401k: 9.99
+  employer_401k: 9.99
+
+two:
+  last_name: MyString
+  first_name: MyString
+  middle_initial: MyString
+  ssn: 1
+  birth_date: 2011-07-28
+  hire_date: 2011-07-28
+  termination_date: 2011-07-28
+  gross_salary: 9.99
+  employee_401k: 9.99
+  employer_401k: 9.99
